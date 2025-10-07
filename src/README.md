@@ -1,4 +1,4 @@
-# Fairino ROS2 Driver (Version 3.7.8)
+# Fairino MoveIt2 Demo Readme (Version 3.7.8)
 
 This document provides a quick tutorial for using MoveIt2 with Fairino Robots, compatible with web version 3.7.8. For a detailed guide, refer to the official documentation: [Fairino ROS2 Guide](https://fairino-doc-en.readthedocs.io/3.7.8/ROSGuide/index.html#frcobot-ros2).
 
